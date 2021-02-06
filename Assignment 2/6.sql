@@ -1,0 +1,1 @@
+DELETE FROM employee WHERE DOJ is null; 

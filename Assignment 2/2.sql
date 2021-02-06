@@ -1,0 +1,1 @@
+ALTER TABLE employee MODIFY Email varchar(30); 

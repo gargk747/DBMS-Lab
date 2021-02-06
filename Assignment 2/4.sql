@@ -1,0 +1,1 @@
+ALTER TABLE employee ADD COLUMN DOB date NOT null DEFAULT '2020-01-01'; 

@@ -1,0 +1,1 @@
+ALTER TABLE ADD PRIMARY KEY (Emp_id); 

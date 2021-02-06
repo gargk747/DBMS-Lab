@@ -1,0 +1,1 @@
+RENAME TABLE employee TO Emp_id; 

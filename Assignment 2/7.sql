@@ -1,0 +1,1 @@
+UPDATE employee e SET e.City='Gurgaon' where e.City='Delhi'; 
