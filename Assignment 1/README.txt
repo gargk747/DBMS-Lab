@@ -1,4 +1,4 @@
-Lab Assignment -1
+Lab Assignment - 1
 
 [ NOTE: Create a doc file for the assignment. Write respective solutions in the file and attach screen shot of &quot;xampp&quot; showing the results( in the database or table). You will have to submit the doc file within the time period of the lab. Late submissions will not be considered. ]
 
