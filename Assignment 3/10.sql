@@ -1,0 +1,1 @@
+SELECT s.sales_id,c.cust_id  FROM salesman s,customer c WHERE c.sales_id IN (SELECT sales_id FROM customer a WHERE a.sales_id<>s.sales_id) ORDER BY s.sales_id,c.cust_id ASC;

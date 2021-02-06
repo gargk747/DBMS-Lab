@@ -1,0 +1,1 @@
+SELECT DISTINCT order_no, min(date), cust_id from orders GROUP BY cust_id;

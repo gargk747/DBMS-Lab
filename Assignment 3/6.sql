@@ -1,0 +1,1 @@
+SELECT name FROM customer c WHERE c.sales_id IN(SELECT sales_id FROM orders a WHERE EXISTS (SELECT * FROM orders b WHERE a.sales_id=b.sales_id AND a.order_no<>b.order_no AND DATEDIFF(a.date,b.date)=5)); 

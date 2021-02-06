@@ -1,0 +1,1 @@
+SELECT * FROM orders WHERE DAY(orders.date) IN (30,29,28,31); 

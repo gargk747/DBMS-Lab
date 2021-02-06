@@ -1,0 +1,1 @@
+SELECT * FROM employees e WHERE e.salary BETWEEN (SELECT MIN(salary) from employees) AND 2500;

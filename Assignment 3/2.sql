@@ -1,0 +1,1 @@
+SELECT firstname, lastname FROM employees e WHERE e.salary> (SELECT salary FROM employees WHERE employees.employee_id=163);

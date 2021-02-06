@@ -1,0 +1,1 @@
+SELECT (COUNT(order_no)) as NumberOFOrders, c.cust_id FROM customer c, orders o where c.cust_id=o.cust_id GROUP BY o.cust_id; 
