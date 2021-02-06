@@ -1,0 +1,1 @@
+SELECT month, count(*) FROM bookstore GROUP BY month ORDER BY COUNT(*) ASC;

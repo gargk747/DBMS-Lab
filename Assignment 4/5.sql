@@ -1,0 +1,1 @@
+UPDATE bookstore SET bookstore.Yaer =2020 WHERE bookstore.author='Danish Kumar';

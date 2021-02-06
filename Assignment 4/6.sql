@@ -1,0 +1,1 @@
+ALTER TABLE bookstore MODIFY COLUMN price float;

@@ -1,0 +1,1 @@
+CREATE INDEX idx_ym ON bookstore(yaer, month);

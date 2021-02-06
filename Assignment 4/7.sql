@@ -1,0 +1,1 @@
+ALTER TABLE bookstore ADD COLUMN publisher VARCHAR(25) NOT NULL;

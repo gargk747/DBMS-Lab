@@ -1,0 +1,1 @@
+CREATE TABLE bookstore (bookid INTEGER, Yaer INTEGER, month VARCHAR(25), volume INTEGER, author VARCHAR(25),price INTEGER);
