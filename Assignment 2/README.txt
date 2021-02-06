@@ -1,4 +1,5 @@
 Lab Assignment -2 (DDL and DML)
+
 [ NOTE: Create a doc file for the assignment. Write respective solutions in the file and attach a screen-shot of "xampp" showing the results (in the database or table).
 In case you are not able to solve a particular question using only a single query then you can write multiple queries to solve it.
 WAQ--> Write a Query ]
